@@ -32,7 +32,7 @@ This project is a part of a real-time internship focused on building scalable, p
 
 ## 🎥 App Demo
 
-👉 [Click to Watch App Demo](https://your-uploaded-link.com](https://drive.google.com/file/d/1Ux2pOCcHl3ebUQoXQlSeegAYPtAyA2e6/view?usp=drive_link)
+👉 [Click to Watch App Demo](https://drive.google.com/file/d/1Ux2pOCcHl3ebUQoXQlSeegAYPtAyA2e6/view?usp=drive_link)
 
 > A walkthrough of login, restaurant browsing, adding to cart, and placing an order.
 
