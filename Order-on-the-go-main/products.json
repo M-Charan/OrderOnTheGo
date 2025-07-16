@@ -1,0 +1,24 @@
+[
+  {
+    "productName": "Zinger Burger",
+    "description": "Spicy chicken burger",
+    "restaurantId": "685ce960d057024016466896",
+    "price": 150,
+    "discount": 10,
+    "category": "Burger",
+    "imageUrl": "https://example.com/zinger.jpg",
+    "rating": 0,
+    "totalRatings": 0
+  },
+  {
+    "productName": "Crispy Fries",
+    "description": "Golden and crispy fries",
+    "restaurantId": "685ce960d057024016466896",
+    "price": 80,
+    "discount": 5,
+    "category": "Snacks",
+    "imageUrl": "https://example.com/fries.jpg",
+    "rating": 0,
+    "totalRatings": 0
+  }
+]

@@ -1,0 +1,57 @@
+/* File: src/pages/Register.css */
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 80px);
+  background-color: #fff;
+}
+
+.register-box {
+  background: white;
+  padding: 30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  width: 350px;
+  text-align: center;
+}
+
+.register-box h2 {
+  margin-bottom: 20px;
+}
+
+.register-box input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #999;
+  border-radius: 5px;
+}
+
+.register-box button[type='submit'] {
+  background: red;
+  color: white;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.login-link {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.link-button {
+  background: none;
+  border: none;
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0;
+}

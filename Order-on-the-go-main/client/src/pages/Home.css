@@ -1,0 +1,27 @@
+.container {
+  padding: 20px;
+}
+
+.categories {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.restaurants {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: red;
+  color: white;
+  margin-top: 40px;
+}
+
+h2 {
+  margin-top: 30px;
+}
